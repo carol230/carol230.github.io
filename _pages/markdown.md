@@ -10,9 +10,6 @@ redirect_from:
 
 "Pite de mí" es una expresión coloquial en mi ciudad natal. **Pite** significa "un poco" de algo, por lo que en este apartado comparto un poquito de mi vida y personalidad.
 
-## Un Poco de Información Random 🎲
-
-Aquí tienes algunos datos aleatorios sobre mí. Me gusta aprender cosas nuevas, explorar temas curiosos y disfrutar de los pequeños detalles de la vida.
 
 ## Datos Personales Interesantes ✨
 
@@ -51,7 +48,7 @@ Aquí tienes algunos datos aleatorios sobre mí. Me gusta aprender cosas nuevas,
 - Siempre he soñado con viajar por todo el mundo y aprender de todas las culturas ✈️.
 - Me encanta fotografiar todas mis experiencias locas para, algún día, hacer un álbum de mi vida 📸.
 
-## Datos Curiosos 🤔
+## Un Poco de Información Random 🎲
 
 - En otra vida hubiera sido abogada, estudiando derecho y siendo la favorita de mamá 👩‍⚖️.
 - Me fascinan los documentales de casos reales, desde lo paranormal hasta crímenes 🎥.
