@@ -23,7 +23,7 @@ Aquí tienes algunos datos aleatorios sobre mí. Me gusta aprender cosas nuevas,
 
 ## Mis Intereses Fuera de la Computación 🌊
 
-- Amo escuchar música de todo tipo y cada día agrego una nueva canción a mi lista de Spotify 🎶. [https://open.spotify.com/user/4fbjoqf1l417rg0qzhtfa1ylz?si=46c489354c424481](#)
+- Amo escuchar música de todo tipo y cada día agrego una nueva canción a [mi playlist de Spotify 🎶](https://open.spotify.com/user/4fbjoqf1l417rg0qzhtfa1ylz?si=46c489354c424481).
 - Me encanta el mar y un día me encantaría aprender a surfear 🏄‍♀️.
 - Me fascinan las actividades de aventura y cualquier cosa que me saque de la zona de confort 🧗.
 
