@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+![Illustration of combining vision and language modalities](/images/imagenNiñaAboutMe.webp){: .align-right width="300px"}
+
 # 👋 ¡Hola, mi nombre es Carolina!
 
 Soy estudiante de **Ingeniería en Ciencias de la Computación** en la Escuela Politécnica Nacional, y me apasiona entender todo acerca del mundo de la computación 💻, desde cómo funcionan las máquinas hasta cómo hacer que comprendan lo que quiero lograr 🤖. Además, me atraen mucho temas como la **ciberseguridad**, el **análisis de datos** 📊 y el desarrollo de **aplicaciones móviles** 📱.
